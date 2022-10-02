@@ -1,0 +1,82 @@
+
+
+footer{
+    background-color: lightgray;
+    text-align: justify;
+    color: red;
+    }
+    
+    section{
+        color: blue
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+     
+    body{
+       background-image: url('https://img.freepik.com/premium-photo/light-marble-with-gray-blue-veins-texture-background_13756-71.jpg?w=2000');   
+       background-size: cover;  
+    }
+    
+    h1{
+        text-align: center;
+        color: darkgreen;
+        font-style: italic;;
+        
+    }
+    
+    c{
+        height: 25px;
+        width: 25px;
+        display: left;
+    }
+    
+    
+    f{
+        height: 25;
+        width: 25;
+    }
+    
+    
+    
+    ul{
+        color: black;
+        text-align: justify;
+        background-color: lightslategray;
+    }
+    
+    section{
+        background-image: url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg);
+    }
+    
+    Skills{
+        background-image: url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg);
+    }
+    
+    
+    button{
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+    h3{
+        text-align: center;
+    }
+    
+     p{
+      background-color: lightgrey;
+      text-align: justify;
+      float: right;
+     } 
+    
+     .clock {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        color: black;
+        font-size: 60px;
+        font-family: Orbitron;
+        letter-spacing: 7px;
+    }
+    
+    
